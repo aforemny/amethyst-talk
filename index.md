@@ -16,7 +16,6 @@ Alexander Foremny ([@aforemny](https://github.com/aforemny))
 1. Why Rust, why Amethyst?
 1. Amethyst concepts
 1. Write pong
-1. More examples
 1. My game
 1. Why not to use Amethyst?
 
@@ -166,12 +165,6 @@ A collection of resources.
 - Keeping score
 - Playing sounds
 - Adding music
-
----
-
-# More Amethyst examples
-
-- https://github.com/amethyst/amethyst/tree/master/examples
 
 ---
 
