@@ -1,0 +1,13 @@
+{
+  "name": "amethyst-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.16.1"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "BSD-3"
+}
