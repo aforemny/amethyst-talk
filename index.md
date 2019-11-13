@@ -82,7 +82,6 @@ $ amethyst new pong
 - **S**ystem
 - Resource
 - World
-- System
 - Bundle
 
 ---
@@ -106,6 +105,12 @@ Any type that stores data that is not a component.
 # World
 
 A collection of resources.
+
+---
+
+# Bundle
+
+A collection of components, resources and systems for instantiation.
 
 ---
 
@@ -175,10 +180,11 @@ A collection of resources.
 
 # Why NOT to use Amethyst?
 
-- Infancy of Rust and Amethyst
+- Infancy of Amethyst
   - No AAA rendering (yet?)
   - No rich UI yet
   - No support for mobile or web yet
+  - No support for VR or AR (yet?)
   - No editor (yet?)
   - No excellent documentation yet
 
